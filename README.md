@@ -64,6 +64,13 @@ According to Github, "When you create a repository on GitHub.com, it exists as a
      - Merge: Making two different codes come together
      - Merge Conflict: When the code cannot come together due to a problem with it
      - Push: Send the code to Git and Github repositories
-     - Pull: 
-     - Remote
-     - Repository
+     - Pull: Grab the code from Git and Github when you messed up
+     - Remote: Local version of your repository
+     - Repository: Where your entire project's code and other files are kept safely
+
+# Reference list
+     - https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121
+     - https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+     - https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=desktop
+     - https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git#:~:text=Git%20merge%20conflict.-,What%20is%20a%20Git%20Merge%20Conflict%3F,on%20different%20lines%20or%20branches.
+     - 
